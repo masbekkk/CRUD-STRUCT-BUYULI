@@ -1,0 +1,23 @@
+.navbar1{
+	background-color: #1377BE ;
+	width: 100%;
+	height: 56px;
+	align : right;
+	float: right;
+
+}
+.navbar-expand-md{
+	background-color: #005394;
+}
+.nav-link{
+	margin-right: 30px;
+}
+.btn {
+	align : center;
+	float: right;
+
+}
+.container1 {
+	width: 100%;
+	
+}
